@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.martialmaillot.com/sitemap.xml 
+Sitemap: http://m-maillot.github.io/sitemap.xml 

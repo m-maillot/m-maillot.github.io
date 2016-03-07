@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Martial Maillot]]></title>
-  <link href="http://m-maillot.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: android | Martial Maillot]]></title>
+  <link href="http://m-maillot.github.io/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://m-maillot.github.io/"/>
   <updated>2016-03-07T23:00:14+01:00</updated>
   <id>http://m-maillot.github.io/</id>
