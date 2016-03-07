@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Martial martialmaillot]]></title>
+  <link href="http://www.martialmaillot.com/atom.xml" rel="self"/>
+  <link href="http://www.martialmaillot.com/"/>
+  <updated>2016-03-07T21:42:02+01:00</updated>
+  <id>http://www.martialmaillot.com/</id>
+  <author>
+    <name><![CDATA[Martial Maillot]]></name>
+    <email><![CDATA[martial.maillot@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
